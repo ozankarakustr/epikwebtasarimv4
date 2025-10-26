@@ -1,0 +1,95 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        
+    <!-- Ana Sayfa -->
+    <url>
+        <loc>https://yourwebsite.com/</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://yourwebsite.com/hero-image.jpg</image:loc>
+            <image:title>Dijital Çözümler Ana Sayfa</image:title>
+            <image:caption>Profesyonel web tasarım ve yazılım geliştirme hizmetleri</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Hizmetler -->
+    <url>
+        <loc>https://yourwebsite.com/hizmetler</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Projeler -->
+    <url>
+        <loc>https://yourwebsite.com/projeler</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Ürünler -->
+    <url>
+        <loc>https://yourwebsite.com/urunler</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Blog -->
+    <url>
+        <loc>https://yourwebsite.com/blog</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- İletişim -->
+    <url>
+        <loc>https://yourwebsite.com/iletisim</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Gizlilik Politikası -->
+    <url>
+        <loc>https://yourwebsite.com/gizlilik-politikasi</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- Kullanım Şartları -->
+    <url>
+        <loc>https://yourwebsite.com/kullanim-sartlari</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <!-- Ödeme Sonucu -->
+    <url>
+        <loc>https://yourwebsite.com/odeme-sonucu</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <!-- Admin Paneli (noindex) -->
+    <url>
+        <loc>https://yourwebsite.com/admin</loc>
+        <lastmod>2024-12-19T10:00:00+03:00</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.1</priority>
+    </url>
+    
+</urlset>

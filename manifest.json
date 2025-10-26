@@ -1,0 +1,27 @@
+{
+  "name": "Dijital Çözümler",
+  "short_name": "DijitalÇözümler",
+  "description": "Profesyonel web tasarım, yazılım geliştirme ve dijital pazarlama hizmetleri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14B8A6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "tr",
+  "dir": "ltr"
+}
